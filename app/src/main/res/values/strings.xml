@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="maybe_i_am_poor_right_now_n_but_i_m_gonna_be_rich_soon">Maybe I am poor right now,   But I\'m gonna be rich soon</string>
+    <string name="todo">TODO</string>
 </resources>
